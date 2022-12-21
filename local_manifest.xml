@@ -7,12 +7,17 @@
 <remote name="PixelExperience"
           fetch="https://github.com/PixelExperience" />
 
+<remote name="anandhan07" fetch="https://gitlab.com/anandhan07/" clone-depth="1" />
+
 <!-- Trees -->
-    <project path="device/xiaomi/garden" name="android_device_xiaomi_garden.git" remote="Atul" revision="awaken" />
+    <project path="device/xiaomi/garden" name="android_device_xiaomi_garden.git" remote="Atul" revision="13" />
     <project path="vendor/xiaomi/garden" name="android_vendor_xiaomi_garden.git" remote="Atul" revision="twelve30" />
 
-<!-- Extras -->
-    <project path="vendor/mediatek/ims" name="vendor_mediatek_ims" remote="PixelExperience" revision="twelve" />
-    <project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces" remote="PixelExperience" revision="twelve" />
+<!-- Clang -->
+    <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="aosp-clang" remote="anandhan07" revision="clang-14.0.6" />
+
+<!-- BPF -->
+    <remove-project name="platform/system/bpf" />
+    <project path="system/bpf" name="system_bpf" remote="PixelExperience" revision="thirteen" />
 
 </manifest>
