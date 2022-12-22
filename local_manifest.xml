@@ -5,7 +5,7 @@
           fetch="https://github.com/Atul977" />
 
 <!-- Trees -->
-    <project path="device/xiaomi/garden" name="android_device_xiaomi_garden-11.git" remote="Atul" revision="magnus" />
+    <project path="device/xiaomi/garden" name="android_device_xiaomi_garden-11.git" remote="Atul" revision="arrow" />
     <project path="vendor/xiaomi/garden" name="vendor_xiaomi_garden-11.git" remote="Atul" revision="11" />
 
 </manifest>
