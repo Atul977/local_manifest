@@ -20,4 +20,7 @@
     <remove-project name="platform/system/bpf" />
     <project path="system/bpf" name="system_bpf" remote="PixelExperience" revision="thirteen" />
 
+<!-- Extras -->
+<remove-project name="platform/android_external_faceunlock" />
+
 </manifest>
