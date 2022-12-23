@@ -4,15 +4,8 @@
 <remote name="Atul"
           fetch="https://github.com/Atul977" />
 
-<remote name="PixelExperience"
-          fetch="https://github.com/PixelExperience" />
-
 <!-- Trees -->
-    <project path="device/xiaomi/garden" name="android_device_xiaomi_garden.git" remote="Atul" revision="awaken" />
+    <project path="device/xiaomi/garden" name="android_device_xiaomi_garden.git" remote="Atul" revision="Awaken" />
     <project path="vendor/xiaomi/garden" name="android_vendor_xiaomi_garden.git" remote="Atul" revision="twelve30" />
-
-<!-- Extras -->
-    <project path="vendor/mediatek/ims" name="vendor_mediatek_ims" remote="PixelExperience" revision="twelve" />
-    <project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces" remote="PixelExperience" revision="twelve" />
 
 </manifest>
