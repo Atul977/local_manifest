@@ -14,5 +14,4 @@
 <!-- Lawnchair -->
     <project path="vendor/lawnchair" name="adarsh956/lawnchair.git" remote="adarsh" revision="main" />
 
-
 </manifest>
