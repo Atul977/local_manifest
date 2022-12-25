@@ -17,4 +17,7 @@
 <!-- Lawnchair -->
     <project path="vendor/lawnchair" name="atulverma9321/lawnchair.git" remote="me" revision="main" />
 
+<remove-project name="vendor_aosp" />
+<remove-project name="vendor_gapps" />
+
 </manifest>
