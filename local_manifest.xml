@@ -18,7 +18,7 @@
     <project path="vendor/lawnchair" name="atulverma9321/lawnchair.git" remote="me" revision="main" />
 
 <!-- Vendor_Gapps -->
-<remove-project name="vendor_aosp" />
-<remove-project name="vendor_gapps" />
+<remove-project project path="vendor/aosp" name="vendor_aosp" remote="pixelos" />
+<remove-project project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
 
 </manifest>
