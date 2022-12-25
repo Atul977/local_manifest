@@ -15,6 +15,6 @@
     <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="adarsh" revision="arrow-11.0" />
 
 <!-- Lawnchair -->
-    <project path="vendor/lawnchair" name="adarsh956/lawnchair.git" remote="me" revision="main" />
+    <project path="vendor/lawnchair" name="atulverma9321/lawnchair.git" remote="me" revision="main" />
 
 </manifest>
