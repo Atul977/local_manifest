@@ -20,6 +20,6 @@
 <!-- Vendor_Gapps -->
 <remove-project name="vendor_aosp" />
 <remove-project name="vendor_gapps" />
-<project path="vendor/aosp" name="Atul977/vendor_aosp" />
+<project path="vendor/aosp" name="Atul977/vendor_aosp" revision="tewlve" />
 
 </manifest>
