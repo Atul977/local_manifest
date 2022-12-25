@@ -12,7 +12,7 @@
     <project path="vendor/xiaomi/garden" name="Atul977/android_vendor_xiaomi_garden.git" remote="Atul" revision="test" />
 
 <!-- Clang -->
-    <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="adarsh" revision="arrow-11.0" />
+    <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="Atul" revision="arrow-11.0" />
 
 <!-- Lawnchair -->
     <project path="vendor/lawnchair" name="atulverma9321/lawnchair.git" remote="me" revision="main" />
