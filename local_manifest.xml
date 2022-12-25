@@ -8,8 +8,8 @@
           fetch="https://gitlab.com" />
 
 <!-- Trees -->
-    <project path="device/xiaomi/garden" name="Atul977/android_device_xiaomi_garden.git" remote="Atul" revision="aicp" />
-    <project path="vendor/xiaomi/garden" name="Atul977/android_vendor_xiaomi_garden.git" remote="Atul" revision="test" />
+    <project path="device/xiaomi/garden" name="Atul977/device_garden.git" remote="Atul" revision="aicp" />
+    <project path="vendor/xiaomi/garden" name="Atul977/vendor_garden.git" remote="Atul" revision="12" />
 
 <!-- Clang -->
     <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="Atul" revision="arrow-11.0" />
