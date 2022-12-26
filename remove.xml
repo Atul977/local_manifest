@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest> 
 
-     <remove-project name="android_packages_apps_Dialer"/>
-    <remove-project name="android_packages_apps_Contacts"/>
-    <remove-project name="android_packages_apps_Messaging"/>
+    <remove-project name="packages_apps_Dialer"/>
+    <remove-project name="packages_apps_Contacts"/>
+    <remove-project name="packages_apps_Messaging"/>
+    <remove-project name="packages_apps_Browser"/>
 
 </manifest>
